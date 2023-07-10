@@ -1,4 +1,4 @@
-# AutonomousDrivingCompetition
+# Autonomous Driving Competition
 
 This repertoire contains the code you need for your course.
 ### Arduino
