@@ -1,6 +1,6 @@
 # AutonomousDrivingCompetition
 
-# This repertoire contains the code you need for your course.
-## Arduino
-## camera vision
-## Lidar
+This repertoire contains the code you need for your course.
+### Arduino
+### camera vision
+### Lidar
